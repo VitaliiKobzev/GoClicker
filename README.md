@@ -31,3 +31,5 @@
   ```bash
   fyne package -os android -name Clicker -id com.example.clicker
   ```
+### Демонстрация приложения
+![Демонстрация](https://i.ibb.co/yhpD6Xf/photo-2024-11-09-23-48-08.jpg)
